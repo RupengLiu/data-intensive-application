@@ -1,7 +1,7 @@
 # data-intensive-application
 
 ### [Think about data systems](#think-about-data-systems)
-### [About Rest and Soap](#about-rest-and-soap)
+### [Rest and Soap](#about-rest-and-soap)
 ### [Replication Summary](#replication)
 
 ## Part one:
