@@ -22,7 +22,7 @@ are message queues with database-like durability guar‐ antees (Apache Kafka).
 ### Replication
 #### Why use replication?
 ![image](https://user-images.githubusercontent.com/29927264/62964779-8a186f00-bdb8-11e9-9d8e-5ab536e821a2.png)
-#### Matser-slave model
+#### Master-slave model
 ![image](https://user-images.githubusercontent.com/29927264/62965243-7588a680-bdb9-11e9-8cfd-6421232500f4.png)
 ![image](https://user-images.githubusercontent.com/29927264/62965306-93560b80-bdb9-11e9-983a-21cdf281f0d9.png)
 #### Synchronous & Asynchronous
