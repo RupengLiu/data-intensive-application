@@ -33,6 +33,7 @@ are message queues with database-like durability guar‐ antees (Apache Kafka).
 ![image](https://user-images.githubusercontent.com/29927264/62967034-10cf4b00-bdbd-11e9-9900-0bb4f10637b5.png)
 ![image](https://user-images.githubusercontent.com/29927264/62968486-02cef980-bdc0-11e9-896a-cb2bb3397a59.png)
 
+#### Replication logs
 
 
 
