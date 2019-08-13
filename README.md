@@ -31,7 +31,8 @@ are message queues with database-like durability guar‐ antees (Apache Kafka).
 #### Fail
 ![image](https://user-images.githubusercontent.com/29927264/62967003-01e89880-bdbd-11e9-981e-a5cbd4903356.png)
 ![image](https://user-images.githubusercontent.com/29927264/62967034-10cf4b00-bdbd-11e9-9900-0bb4f10637b5.png)
-![image](https://user-images.githubusercontent.com/29927264/62968486-02cef980-bdc0-11e9-896a-cb2bb3397a59.png)
+![image](https://user-images.githubusercontent.com/29927264/62973735-8b9f6280-bdcb-11e9-8aea-1701f2e825f5.png)
+
 
 #### Replication logs
 
