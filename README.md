@@ -3,6 +3,7 @@
 ### [Think about data systems](#think-about-data-systems)
 ### [Rest and Soap](#about-rest-and-soap)
 ### [Replication Summary](#replication)
+### [Stream Processing](#stream-processing)
 
 ## Part one:
 
@@ -36,7 +37,7 @@ are message queues with database-like durability guar‐ antees (Apache Kafka).
 
 #### Replication logs
 
-
+#### Stream Processing
 
 
 
